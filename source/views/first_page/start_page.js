@@ -1,5 +1,5 @@
 RAD.view("view.start_page", RAD.Blanks.View.extend({
-    url: '/source/views/first_page/start_page.html',
+    url: 'source/views/first_page/start_page.html',
     events: {
         'tap .go-to': 'open'
     },
