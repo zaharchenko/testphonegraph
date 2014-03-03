@@ -1,5 +1,5 @@
 RAD.view("view.second_page", RAD.Blanks.View.extend({
-    url: '/source/views/second_page/second_page.html',
+    url: 'source/views/second_page/second_page.html',
     events: {
         'tap #back': 'goBack'
     },

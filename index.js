@@ -2,12 +2,12 @@
     'use strict';
 
     var scripts = [
-        "/js/iscroll-lite.js",
+        "js/iscroll-lite.js",
 
-        "/source/application/application.js",
+        "source/application/application.js",
 
-        "/source/views/first_page/start_page.js",
-        "/source/views/second_page/second_page.js"
+        "source/views/first_page/start_page.js",
+        "source/views/second_page/second_page.js"
     ];
 
     function onEndLoad() {
